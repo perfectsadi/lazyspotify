@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+lazyspotify/__init__.py
+lazyspotify/__main__.py
+lazyspotify/client.py
+lazyspotify/config.py
+lazyspotify/ui.py
+lazyspotify.egg-info/PKG-INFO
+lazyspotify.egg-info/SOURCES.txt
+lazyspotify.egg-info/dependency_links.txt
+lazyspotify.egg-info/entry_points.txt
+lazyspotify.egg-info/requires.txt
+lazyspotify.egg-info/top_level.txt

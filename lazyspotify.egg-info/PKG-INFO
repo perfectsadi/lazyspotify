@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: lazyspotify
+Version: 0.1.0
+Summary: A lazygit-style terminal UI for Spotify
+Requires-Python: >=3.9
+Requires-Dist: spotipy>=2.23.0
