@@ -1,3 +1,5 @@
+<img width="960" height="1079" alt="image" src="https://github.com/user-attachments/assets/be61bcd4-5342-4a5b-b946-cc75dc7e9356" />
+
 # lazyspotify
 
 A `lazygit`-style terminal UI for Spotify, built with Python's `curses` and
